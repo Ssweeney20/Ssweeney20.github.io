@@ -1,25 +1,11 @@
-<div style="background-color:#0b1220; padding:40px; border-radius:12px; color:white;">
 <div align="center">
 
-# <span style="color:#4f46e5;">Sean Sweeney</span>
+# Sean Sweeney
 ## CS 499 Capstone ePortfolio  
 ### Southern New Hampshire University  
 
 </div>
 
----
-
-<p align="center">
-  <strong>Artifact:</strong> InTheTow 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stack-MongoDB%20|%20Express%20|%20React%20|%20Node.js-informational" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-blue" />
-  <img src="https://img.shields.io/badge/Capstone-CS499-success" />
-</p>
-
----
 
 ## Overview
 
@@ -256,5 +242,3 @@ Across all enhancements, I applied a security focused approach by implementing r
 # Summary
 
 Each enhancement builds on the same core system while demonstrating growth across different domains of computer science. Together, they reflect my ability to iteratively improve a full stack application while balancing performance, security, and usability.
-
-</div>
