@@ -1,6 +1,6 @@
-## CS 499 Capstone ePortfolio  
+## Sean Sweeney
 ### Southern New Hampshire University  
-
+### CS 499 Capstone ePortfolio  
 
 ## Overview
 
